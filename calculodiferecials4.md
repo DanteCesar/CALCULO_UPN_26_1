@@ -1,10 +1,71 @@
-|   |   |   |
-|---|---|---|
-|$$f(x)=\begin{cases}x^2-1,&x\neq1\\ \text{no definida},&x=1\end{cases}$$ | $$x=1$$ |   |
-| $$f(x)=\begin{cases}2x+1,&x\neq-2\\ \text{no definida},&x=-2\end{cases}$$ | $$x=-2$$ |   |
-| $$f(x)=\begin{cases}x+2,&x<0\\ x^2,&x\ge0\end{cases}$$ | $$x=0$$ |   |
-| $$f(x)=\begin{cases}\sqrt{x+1},&x>-1\\ -x-1,&x\le-1\end{cases}$$ | $$x=-1$$ |   |
-| $$f(x)=\begin{cases}x^2,&x\neq2\\ 6,&x=2\end{cases}$$ | $$x=2$$ |   |
-| $$f(x)=\begin{cases}\sqrt{x+4}-2,&x\neq0\\ 1,&x=0\end{cases}$$ | $$x=0$$ |   |
-| $$f(x)=\begin{cases}x+1,&x<1\\ x^2,&x\ge1\end{cases}$$ | $$x=1$$ |   |
-| $$f(x)=\begin{cases}\sqrt{x+1}+1,&x\ge0\\ 2x+1,&x<0\end{cases}$$ | $$x=0$$ |   |
+<div style="display:flex; gap:40px;">
+
+<div style="width:50%;">
+
+### Ejercicio 1 (Continua)
+
+Sea la función definida por
+
+$$
+f(x)=
+\begin{cases}
+2x+1, & x<1 \\
+x^2, & x\ge 1
+\end{cases}
+$$
+
+Verifica si la función es continua en $$x=1$$.
+
+---
+
+### Ejercicio 2 (No continua)
+
+Sea la función
+
+$$
+f(x)=
+\begin{cases}
+x^2+2x, & x<0 \\
+\sqrt{x+1}, & x\ge 0
+\end{cases}
+$$
+
+Analiza la continuidad de la función en $$x=0$$.
+
+</div>
+
+<div style="width:50%;">
+
+### Ejercicio 3 (Continua)
+
+Sea la función definida por
+
+$$
+f(x)=
+\begin{cases}
+ax+b, & x<4 \\
+\sqrt{x}, & x\ge 4
+\end{cases}
+$$
+
+Determina los valores de $$a$$ y $$b$$ para que la función sea continua en $$x=4$$.
+
+---
+
+### Ejercicio 4 (No continua)
+
+Sea la función
+
+$$
+f(x)=
+\begin{cases}
+\sqrt{x+2}, & x<-1 \\
+x^2+1, & x\ge -1
+\end{cases}
+$$
+
+Estudia la continuidad de la función en $$x=-1$$.
+
+</div>
+
+</div>
