@@ -2,7 +2,7 @@
 
 <div style="width:50%;">
 
-### Ejercicio 1 (Continua)
+### Ejercicio 1 
 
 Sea la función definida por
 
@@ -18,7 +18,7 @@ Verifica si la función es continua en $$x=1$$.
 
 ---
 
-### Ejercicio 2 (No continua)
+### Ejercicio 2 
 
 Sea la función
 
@@ -36,7 +36,7 @@ Analiza la continuidad de la función en $$x=0$$.
 
 <div style="width:50%;">
 
-### Ejercicio 3 (Continua)
+### Ejercicio 3 
 
 Sea la función definida por
 
@@ -52,7 +52,7 @@ Determina los valores de $$a$$ y $$b$$ para que la función sea continua en $$x=
 
 ---
 
-### Ejercicio 4 (No continua)
+### Ejercicio 4 
 
 Sea la función
 
